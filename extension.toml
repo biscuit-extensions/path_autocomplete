@@ -1,0 +1,7 @@
+[extension]
+id = "path_autocomplete"
+name = "Path Autocomplete"
+version = "0.1.0"
+description = "Path Autocomplete extension for Biscuit"
+author = "biscuit-extensions"
+icon = "icon.png"
